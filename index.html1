@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jessica Daniel - Portfolio</title>
+<style>
+body{font-family:Arial;background:#0f0f0f;color:white;text-align:center;padding:40px}
+h1{font-size:40px;color:#ff6b9d}
+.card{background:#1a1a1a;padding:30px;border-radius:20px;max-width:500px;margin:auto}
+a{color:#ff6b9d;text-decoration:none;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Jessica Daniel</h1>
+<p>Web Designer | Creative | Jos, NG</p>
+<p>I design beautiful and simple websites.</p>
+<br>
+<p>Contact: jessica@email.com</p>
+</div>
+</body>
+  </html>
